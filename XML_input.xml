@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<week>
+  <day name="Понедельник">
+    <class discipline="Английский язык" type="Семинар">
+      <auditorium number="110" building="3"/>
+      <lecturer name="Садикова Т.Б."/>
+      <time start="8:10" end="9:30"/>
+    </class>
+    <class discipline="Английский язык" type="Семинар">
+      <auditorium number="110" building="3"/>
+      <lecturer name="Садикова Т.Б."/>
+      <time start="9:40" end="11:00"/>
+    </class>
+    <class discipline="Алгоритмы и структуры данных" type="Семинар">
+      <auditorium number="504" building="3"/>
+      <lecturer name="Морозенко В.В."/>
+      <time start="11:30" end="12:50"/>
+    </class>
+  </day>
+  <day name="Вторник">
+    <class discipline="Базы данных" type="Семинар">
+      <auditorium number="510" building="3"/>
+      <lecturer name="Хренов В.В."/>
+      <time start="11:30" end="12:50"/>
+    </class>
+    <class discipline="Конструирование программного обеспечения" type="Лекция">
+      <auditorium number="102" building="3"/>
+      <lecturer name="Ланин В.В."/>
+      <time start="13:00" end="14:20"/>
+    </class>
+  </day>
+  <day name="Среда">
+    <class discipline="Конструирование программного обеспечения" type="Семинар">
+      <auditorium number="509" building="3"/>
+      <lecturer name="Ланин В.В."/>
+      <time start="9:40" end="11:00"/>
+    </class>
+    <class discipline="Операционные системы" type="Семинар">
+      <auditorium number="305" building="3"/>
+      <lecturer name="Ланин В.В."/>
+      <time start="11:30" end="12:50"/>
+    </class>
+    <class discipline="Статистические и эмпирические методы компьютинга" type="Семинар">
+      <auditorium number="511" building="3"/>
+      <lecturer name="Радионова М.В."/>
+      <time start="13:00" end="14:20"/>
+    </class>
+  </day>
+  <day name="Четверг">
+    <class discipline="Операционные системы" type="Лекция">
+      <auditorium number="216" building="4"/>
+      <lecturer name="Лядова Л.Н."/>
+      <time start="11:30" end="12:50"/>
+    </class>
+    <class discipline="Статистические и эмпирические методы компьютинга" type="Лекция">
+      <auditorium number="216" building="4"/>
+      <lecturer name="Радионова М.В."/>
+      <time start="13:00" end="14:20"/>
+    </class>
+  </day>
+  <day name="Пятница">
+    <class discipline="Научно-исследовательский семинар" type="Семинар">
+      <auditorium number="102" building="3"/>
+      <lecturer name="Носкова Е.Н."/>
+      <time start="9:40" end="11:00"/>
+    </class>
+    <class discipline="Базы данных" type="Лекция">
+      <auditorium number="102" building="3"/>
+      <lecturer name="Хренов В.В."/>
+      <time start="11:30" end="12:50"/>
+    </class>
+  </day>
+</week>
